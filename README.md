@@ -1,4 +1,4 @@
-# Docker Samples and Recipies
+# GitHub Pages Test (Jekyll)
 
 >
 ---
@@ -6,4 +6,4 @@
 ---
 >
 
-Visit the [website](https://accetto.github.io/gh-pages-docker-samples/).
+Visit the [website](https://accetto.github.io/gh-pages-test-jekyll/).
