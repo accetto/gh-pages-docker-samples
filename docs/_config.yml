@@ -1,0 +1,18 @@
+### Config file for building by GitHub Pages using remote themes
+
+### Site settings
+
+title: GitHub Pages Test (minimal-mistakes)
+
+description: >-
+  Testing GitHub Pages with Jekyll
+
+url: "https://github.com/accetto/gh-pages-docker-samples"
+
+### Build settings
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
