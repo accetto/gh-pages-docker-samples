@@ -1,0 +1,5 @@
+### Gemfile for building by GitHub Pages using remote themes
+
+source "https://rubygems.org"
+
+gem "github-pages", "~> 228", group: :jekyll_plugins

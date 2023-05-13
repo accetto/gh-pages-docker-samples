@@ -1,0 +1,17 @@
+### Config file for building by GitHub Pages using remote themes
+
+### Site settings
+
+title: GitHub Pages Test (just-the-docs)
+
+description: >-
+  Testing GitHub Pages with Jekyll
+
+url: "https://github.com/accetto/gh-pages-docker-samples"
+
+### Build settings
+
+remote_theme: just-the-docs/just-the-docs
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
