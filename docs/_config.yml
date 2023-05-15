@@ -1,0 +1,21 @@
+### Config file for building by GitHub Pages using the default theme
+
+### Site settings
+
+title: GitHub Pages Test (minima)
+
+description: >-
+  Testing GitHub Pages with Jekyll.
+
+github_username:  accetto
+# email: your-email@example.com
+# twitter_username: jekyllrb
+
+url: "https://github.com/accetto/gh-pages-docker-samples"
+# baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+
+theme: minima
+plugins:
+  - jekyll-feed
